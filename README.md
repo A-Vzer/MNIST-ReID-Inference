@@ -7,4 +7,4 @@ This code will:
 4. Plot loss per batch, accuracy per batch, accuracy per epoch and ReID accuracy per epoch
 5. Finally, it will run inference on the handwritten digits which can be found in the 'model/digits/' folder and show the top 5 selection of every digit. The digits in the folder will be preprocessed with openCV before passing it through the model.
 
-For any questoins feel free to contact me on discord: Vzer#7201
+For any questions feel free to contact me on discord: Vzer#7201
